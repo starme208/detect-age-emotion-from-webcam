@@ -30,9 +30,9 @@ This project is an implementation of an age, gender, and emotion detection appli
 To run the application, follow these steps:
 
 1. Clone the repository to your local machine:
-
-# git clone https://github.com/starme208/detect-age-emotion-from-webcam.git
-
+```
+git clone https://github.com/starme208/detect-age-emotion-from-webcam.git
+```
 
 2. Install the required libraries:
 !pip install tensorflow keras opencv-python
