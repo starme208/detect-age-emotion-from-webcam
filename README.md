@@ -39,7 +39,6 @@ To run the application, follow these steps:
 
 3. Run the application:
 
-
 ## Usage
 
 The application will open a video feed from your webcam and display real-time predictions for age, gender, and emotion for the faces it detects in the frame.
@@ -59,5 +58,6 @@ The application uses pre-trained models for age, gender, and emotion classificat
 Contributions to the project are welcome. If you find any issues or want to add new features, feel free to create a pull request. Please follow the coding conventions and guidelines while contributing.
 
 ## License
-
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+-----------------------
